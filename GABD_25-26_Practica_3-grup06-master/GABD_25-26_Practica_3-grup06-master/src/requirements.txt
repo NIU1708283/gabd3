@@ -1,0 +1,16 @@
+ipykernel
+git+https://github.com/Oriolrt/GABDConnect@v3.3.2
+pymongo
+scikit-learn
+tqdm
+matplotlib
+pandas
+ucimlrepo
+pytest
+networkx
+nbclient
+dotenv
+path
+sock
+PySocks
+
